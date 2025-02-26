@@ -5,10 +5,15 @@ Descrição: Este projeto é um sistema básico de gerenciamento de biblioteca, 
 Funcionalidades:
 
 Adicionar Livros: Permite adicionar novos livros ao catálogo da biblioteca.
+
 Remover Livros: Possibilita a remoção de livros do catálogo.
+
 Listar Livros: Exibe todos os livros disponíveis na biblioteca.
+
 Registrar Usuários: Permite registrar novos usuários no sistema.
+
 Empréstimo de Livros: Gerencia o empréstimo de livros para os usuários registrados.
+
 Devolução de Livros: Controla a devolução de livros emprestados.
 
 
