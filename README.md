@@ -17,4 +17,6 @@ Empréstimo de Livros: Gerencia o empréstimo de livros para os usuários regist
 Devolução de Livros: Controla a devolução de livros emprestados.
 
 
-Objetivo Futuro: Este projeto será expandido em um projeto de faculdade mais completo, incorporando funcionalidades avançadas como busca por livros, relatórios detalhados, interface gráfica, e integração com bancos de dados.
+Objetivo Futuro:
+
+Este projeto será expandido em um projeto de faculdade mais completo, incorporando funcionalidades avançadas como busca por livros, relatórios detalhados, interface gráfica, e integração com bancos de dados.
